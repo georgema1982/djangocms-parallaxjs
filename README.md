@@ -1,6 +1,8 @@
-# djangocms-parallaxjs
+djangocms-parallaxjs
+====================
 
-## Installation
+Installation
+------------
 
 To get started using ``djangocms-parallaxjs``:
 
@@ -16,6 +18,7 @@ To get started using ``djangocms-parallaxjs``:
         ...
     )
 
-## Plugin Options
+Plugin Options
+--------------
 
 Please reference https://pixelcog.github.io/parallax.js/ for all the options.
